@@ -1,16 +1,19 @@
-## Hi there 👋
+## Kuldeep Poonia
 
-<!--
-**kuldeep-poonia/Kuldeep-poonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure Systems Engineer
 
-Here are some ideas to get you started:
+I build experimental backend and infrastructure systems focused on runtime intelligence, service stability and telemetry-driven control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work explores how distributed services can observe their own behaviour, predict instability and assist operators in stabilisation decisions.
+
+### Engineering Interests
+
+* distributed runtime design
+* queue stability and backpressure modelling
+* telemetry ingestion and reasoning systems
+* event-driven backend architectures
+* reliability automation and failure modelling
+
+### Current Focus
+
+Designing autonomous infrastructure engines that simulate service behaviour and generate stabilisation strategies under dynamic load conditions.
