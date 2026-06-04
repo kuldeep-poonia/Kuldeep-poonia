@@ -1,12 +1,30 @@
-# Kuldeep Poonia
+# 👋 Kuldeep Poonia
 
-> Building production-grade infrastructure tools that solve real problems in distributed systems, observability, and runtime safety.
+**Backend Developer | DevOps Engineer | AI Engineer**
+
+---
+
+## ✨ About Me
+
+I'm a **software engineer passionate about building production-grade infrastructure and backend systems** that solve real problems in distributed systems, observability, and runtime safety. I specialize in creating robust, scalable solutions designed for engineers who demand reliability and efficiency.
+
+As a **Backend Developer, DevOps Engineer, and AI Engineer**, I combine systems knowledge with infrastructure expertise and machine learning to build intelligent, self-optimizing services and platforms.
+
+### What Drives My Work
+- 🔬 **Deep technical expertise** in backend systems, containerization, and infrastructure automation
+- 🏗️ **Production-first mindset** — every service I build is battle-tested for real-world use
+- 📊 **Visible reasoning** — systems should explain their decisions, not be black boxes
+- ⚡ **Performance obsessed** — zero unnecessary overhead, minimal dependencies
+- 🤖 **AI-driven solutions** — leveraging ML and causal inference for intelligent automation
+- 📖 **Clear communication** — comprehensive documentation and clear code
+
+**Currently:** Building intelligent infrastructure automation systems that predict failures before they happen and scale capacity automatically.
 
 ---
 
 ## 🎯 What I Build
 
-I focus on **infrastructure automation, distributed systems, and runtime visibility**. My projects are designed for production use with clean APIs, minimal dependencies, and zero-config deployment.
+I focus on **backend services, infrastructure automation, distributed systems, observability, and AI-powered infrastructure**. My projects are designed for production use with clean APIs, minimal dependencies, and zero-config deployment.
 
 ---
 
@@ -17,7 +35,7 @@ I focus on **infrastructure automation, distributed systems, and runtime visibil
 
 An autonomous control system that watches your services, predicts failures before they happen, and scales capacity automatically using control theory (MPC + RL).
 
-- 🔍 No thresholds — uses aircraft-autopilot-grade math to predict problems 60 seconds ahead
+- 🔍 No thresholds — uses machine learning to predict problems 60 seconds ahead
 - 📊 Live dashboard with failure risk scoring and reasoning feed
 - 🏗️ Zero-config: just add one label to your Docker services
 - 💾 Works in-memory or with PostgreSQL for persistent history
@@ -77,27 +95,41 @@ Converts live terminal logs into structured runtime events and traffic simulatio
 
 ---
 
-## 💡 Common Thread
+## 💡 Engineering Philosophy
 
-All these projects share a philosophy:
+All these projects share a core philosophy:
 
 ✅ **Zero-config when possible** — sensible defaults, minimal setup  
 ✅ **Production-grade** — built to run in real systems, not just demos  
-✅ **Visible reasoning** — you can see why the system made a decision  
+✅ **Visible reasoning** — systems should explain their decisions  
 ✅ **Efficient** — designed for production at scale (low overhead, minimal dependencies)  
-✅ **Well-documented** — READMEs that actually explain how to use them  
+✅ **Well-documented** — clear READMEs and code comments  
+✅ **Battle-tested** — proven in production environments
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Go, TypeScript, Rust, Python  
-**Infrastructure:** Docker, Kubernetes, Prometheus, PostgreSQL  
-**Specialties:** Distributed systems, control theory, causal inference, observability
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Go, Python, TypeScript, Rust |
+| **Backend & DevOps** | Docker, Kubernetes, Prometheus, PostgreSQL, CI/CD |
+| **AI & ML** | Causal Inference, Reinforcement Learning, Anomaly Detection |
 
 ---
 
-## 📚 Learn More
+## 📊 Core Skills
+
+- **Backend Development** — scalable services, APIs, microservices, event-driven architecture
+- **DevOps & Infrastructure** — Kubernetes, Docker, containerization, infrastructure automation, monitoring
+- **AI Engineering** — causal inference, anomaly detection, predictive modeling
+- **Distributed Systems** — reliability, fault tolerance, high availability
+- **Observability** — metrics, logging, tracing, alerting systems
+- **Performance** — low-latency systems, memory efficiency, optimization
+
+---
+
+## 📚 Getting Started
 
 Each project has comprehensive documentation in its README. Pick one and dive in:
 
@@ -107,11 +139,28 @@ Each project has comprehensive documentation in its README. Pick one and dive in
 
 ---
 
-## 🤝 Get In Touch
+## 🤝 Let's Connect
 
-Open to collaboration, feedback, and real-world use cases. If you're using these tools in production or have ideas for improvements, let's talk.
+I'm always interested in:
+- 💬 **Collaboration** on backend systems, DevOps challenges, and infrastructure projects
+- 🔍 **Technical discussions** about distributed systems and performance optimization
+- 🚀 **Production use cases** — if you're using these tools in production, I'd love to hear about it
+- 🤖 **AI initiatives** — building intelligent, predictive infrastructure
+- 🤔 **Feedback** to make these tools better
+
+**Reach out via GitHub Issues or discussions on any of my repositories.**
+
+---
+
+## 📈 Impact
+
+- Building tools used in **production environments** solving real infrastructure challenges
+- Creating **robust, scalable backend services** and DevOps solutions
+- Making **observability more intuitive** and actionable for engineering teams
+- Demonstrating that **production tools can be elegant and user-friendly**
+- Combining **backend expertise with AI** to create intelligent, self-optimizing systems
 
 ---
 
 **Last updated:** 2026-06-04  
-*Built for people who need infrastructure that actually works.*
+*Built for engineers who need infrastructure that actually works.*
